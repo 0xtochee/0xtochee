@@ -2,6 +2,7 @@
 - 👀 I’m interested in Web2 and Web3 Innovative Product Development
 - 💻 I work with Java, Python, Docker, Struts 2, JasperReports, HTML5 & CSS, lil bit of JavaScript
 - 🌱 I’m currently learning Solidity
+- 💻** Currently working on my finals degree project: dicom_deid_project
 - 💞️ I’m looking to collaborate on Innovative product development that can help Web3 communities
 - 📫 How to reach me X / Twitter: 6lack_9yt, Email: onymestochi3@gmail.com
 - 😄 Pronouns: He/Him
