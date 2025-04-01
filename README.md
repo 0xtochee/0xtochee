@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @0xtochee
+- 👀 I’m interested in Web2 and Web3 Innovative Product Development 
+- 🌱 I’m currently learning AWS Cloud services
+- 💞️ I’m looking to collaborate on Innovative product development that can help Web3 communities
+- 📫 How to reach me X / Twitter: 6lack_9yt, Email: onymestochi3@gmail.com
+- 😄 Pronouns: He/Him
