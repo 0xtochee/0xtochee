@@ -3,5 +3,5 @@
 - 💻 I work with Java, Python, Docker, Struts 2, JasperReports, HTML5 & CSS, JavaScript, TypeScript, React
 - 🌱 I’m currently learning Solidity
 - 💞️ I’m looking to collaborate on Innovative product development that can help Web3 communities
-- 📫 How to reach me X / Twitter: 6lack_9yt, Email: onyemstochi3@gmail.com
+- 📫 How to reach me X / Twitter: 0xtochee, Email: onyemstochi3@gmail.com
 - 😄 Pronouns: He/Him
